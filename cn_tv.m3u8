@@ -3,7 +3,7 @@
 http://cm-wshls.homecdn.com/live/61b94.m3u8?wsSession=fe53112a4f0fa85a22f3947d-172840152193684&wsIPSercert=84392b9c84a733e5603de7e99f550736
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.iill.top/logo/CCTV5.png" group-title="央视台",CCTV5
 http://vvlive.eztv.vip/hwltnew/hwltnew.m3u8?auth_key=1710810887-0-0-7a1a8996ebcbf238471004e777d22778
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png" group-title="央视",CCTV6
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png" group-title="央视台",CCTV6
 http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-14少儿" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png",CCTV-14少儿
 http://121.24.98.226:8090/hls/22/index.m3u8
