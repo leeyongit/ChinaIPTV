@@ -34,10 +34,10 @@ http://vvlive.eztv.vip/ctvjnew/ctvjnew.m3u8?auth_key=1710810969-0-0-ba6a3cd8195f
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.iill.top/logo/北京卫视.png" group-title="卫视台",北京卫视
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1728400076&sign=5f135d5c1a0052177189846e73143a40
 
-#EXTINF:-1 group-title="台湾" tvg-logo="https://i.imgur.com/KdJi9af.png" tvg-id="DaAi 1",DaAi 1
+#EXTINF:-1 group-title="台湾" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/893ad6bbc78b8f994774751143496a31.jpg" tvg-id="DaAi 1",DaAi 1
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 
-#EXTINF:-1 group-title="台湾" tvg-logo="https://i.imgur.com/KdJi9af.png" tvg-id="DaAi 2",DaAi 2
+#EXTINF:-1 group-title="台湾" tvg-logo="https://epg.pw/media/images/channel/2015/05/21/large/20150521014333336253_94.png" tvg-id="DaAi 2",DaAi 2
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
 #EXTINF:-1 tvg-name="非凡新聞HD" tvg-logo="https://epg.pw/media/images/channel/2016/06/17/large/20160617165249161501_56.png" group-title="台湾",[HD]非凡新聞
