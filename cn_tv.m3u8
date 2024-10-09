@@ -40,6 +40,9 @@ https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="https://i.imgur.com/KdJi9af.png" tvg-id="DaAi 2",DaAi 2
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
+#EXTINF:-1 tvg-name="非凡新聞HD" tvg-logo="https://epg.pw/media/images/channel/2016/06/17/large/20160617165249161501_56.png" group-title="台湾",[HD]非凡新聞
+rtmp://f13h.mine.nu/sat/tv581
+
 #EXTINF:-1 tvg-name="民視" tvg-logo="https://epg.pw/media/images/channel/2023/06/14/large/20230614212503849654_98.png" group-title="台湾",[BD]民视
 https://stream1.freetv.fun/c04023535ddcaa590509b0dbbc9f8956e54e02b4f47097b4d855131c52d2796d.m3u8
 
@@ -60,3 +63,6 @@ https://stream1.freetv.fun/624c5472c76a11281d3510fa27768a9b798a935c237e2796f3179
 
 #EXTINF:-1 tvg-name="TVBS歡樂臺HD" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720162440472209_35.png" group-title="台湾",[BD]tvbs欢乐
 https://stream1.freetv.fun/f142343cc50a9f430bd9d30a24cb9bd1e66832007de3a75cee534e7129c63dd2.ctv
+
+#EXTINF:-1 tvg-name="緯來日本" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126210817982613_24.jpg" group-title="台湾",[HD]緯來日本
+rtmp://f13h.mine.nu:1935/sat/tv771
