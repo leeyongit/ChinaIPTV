@@ -3,12 +3,14 @@
 http://cm-wshls.homecdn.com/live/61b94.m3u8?wsSession=fe53112a4f0fa85a22f3947d-172840152193684&wsIPSercert=84392b9c84a733e5603de7e99f550736
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.iill.top/logo/CCTV5.png" group-title="央视台",CCTV5
 http://vvlive.eztv.vip/hwltnew/hwltnew.m3u8?auth_key=1710810887-0-0-7a1a8996ebcbf238471004e777d22778
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/CCTV5.png"  group-title="央视台",CCTV5+
-http://bl.dchwtq.asia:10000/rtp/239.254.96.234:9484
+#EXTINF:-1 tvg-name="CCTV5+" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2024/07/28/large/20240728162052248353_31.png" group-title="央视台",[BD]cctv5 plus
+https://stream1.freetv.fun/0c4f859be4452111abccff710ed03a8bb6f6e3603aef446057770b53281f1db4.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png" group-title="央视台",CCTV6
 http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-14少儿" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png",CCTV-14少儿
 http://121.24.98.226:8090/hls/22/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091612944732_44.png" group-title="央视台",[BD]cctv-14少儿
+https://stream1.freetv.fun/1a7e6e43b0ee74f9be6aac2c802e76e531d6e50622530eef15d78f5da519bf92.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-13新闻" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV-13新闻
 http://121.18.43.254:10000/hls/13/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png",凤凰中文
@@ -33,6 +35,15 @@ http://vvlive.eztv.vip/hwsstnew/hwsstnew.m3u8?auth_key=1710810832-0-0-70d15b6eab
 http://vvlive.eztv.vip/ctvjnew/ctvjnew.m3u8?auth_key=1710810969-0-0-ba6a3cd8195f05d21a6a7f110058d520
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.iill.top/logo/北京卫视.png" group-title="卫视台",北京卫视
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1728400076&sign=5f135d5c1a0052177189846e73143a40
+
+#EXTINF:-1 tvg-name="港臺電視31" tvg-id="" tvg-logo="https://epg.pw/media/" group-title="香港",[BD]港台電視 31
+https://stream1.freetv.fun/198f832402c4811ecc847da8e14aa8915727a2643e046d1ab9f3098f983dd5ce.m3u8
+
+#EXTINF:-1 tvg-name="港臺電視32" tvg-logo="https://epg.pw/media/" group-title="香港",[BD]港台電視 32
+https://stream1.freetv.fun/53f56e582faa5bc1073861206e2563b2437b3cd6c2f4bf8d44986624246d837f.m3u8
+
+#EXTINF:-1 tvg-name="環球電視臺" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318090803853591_56.png" group-title="香港",[BD]环球电视
+https://stream1.freetv.fun/6234a9bcbe41073ea5f86dfdea0d0241a0f06a064046d72c42128f714889299c.m3u8
 
 #EXTINF:-1 group-title="台湾" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/893ad6bbc78b8f994774751143496a31.jpg" tvg-id="DaAi 1",DaAi 1
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
