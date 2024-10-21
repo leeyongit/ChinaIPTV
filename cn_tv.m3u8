@@ -7,8 +7,8 @@ http://vvlive.eztv.vip/hwltnew/hwltnew.m3u8?auth_key=1710810887-0-0-7a1a8996ebcb
 https://stream1.freetv.fun/0c4f859be4452111abccff710ed03a8bb6f6e3603aef446057770b53281f1db4.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png" group-title="央视台",CCTV6
 http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
-#EXTINF:-1 group-title="央视台" tvg-id="CCTV-14少儿" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png",CCTV-14少儿
-http://121.24.98.226:8090/hls/22/index.m3u8
+#EXTINF:-1 group-title="央视台" tvg-id="CCTV-4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4
+http://vvlive.eztv.vip/hnwsnew/hnwsnew.m3u8?auth_key=1710811043-0-0-5bbbb96484c9f712437be29b66ef4126
 #EXTINF:-1 tvg-name="CCTV14" tvg-id="" tvg-country="中國大陸" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091612944732_44.png" group-title="央视台",[BD]cctv-14少儿
 https://stream1.freetv.fun/1a7e6e43b0ee74f9be6aac2c802e76e531d6e50622530eef15d78f5da519bf92.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/fenghuangzhongwen.png",凤凰中文
@@ -35,6 +35,18 @@ http://vvlive.eztv.vip/ctvjnew/ctvjnew.m3u8?auth_key=1710810969-0-0-ba6a3cd8195f
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1729494823&sign=34334ceb0b9c11680f0a5ad85ff0a0a2
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.iill.top/logo/深圳卫视.png" group-title="卫视台",深圳卫视
 http://p.ytelc.com/169l/gd/shenzhen.php?id=shenzhen
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://epg.iill.top/logo/陕西卫视.png" group-title="卫视台",陕西卫视
+http://stream.snrtv.com/sxbc-star-tuHWZ3.m3u8
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://epg.iill.top/logo/海南卫视.png" group-title="卫视台",海南卫视
+https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=1bc112521729501876
+
+#EXTINF:-1 tvg-name="江苏少儿" tvg-logo="https://epg.pw/media/" group-title="少儿",江苏少儿
+https://1699055349.cloudvdn.com/a.m3u8?domain=litchinews-tv-hls.jstv.com&player=RbIAAMDkEPkdZwAY&secondToken=secondToken%3A8jh2DvVw_EOa4zxDjpGbVj6nqxM&sign=f152a983385eaef2dc50e01c7b8f9fc6&streamid=litchinews-tv%3Alitchinews-tv%2Fyoumankatong&t=67160cf3&v3=1
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="	https://live.fanmingming.com/tv/金鹰卡通.png" group-title="少儿",金鹰卡通
+http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9aHdfcGhvbmUmcz0wMGMxZWU5MGJmM2M2MzU5ZjQzODhjNTI5NmQ3YjM0MyZ1aWQ9JnV1aWQ9YTE1MThkZjExNDU5MzdhODM0YzJlMjhkZjBhN2M0YzMtNjcyN2UyNjQmdj0yJmFzPTAmZXM9MTcyOTUyMTQwMw,,/JYKTMPP360.m3u8
+#EXTINF:-1 tvg-name="河北少儿" tvg-logo="https://epg.pw/media/" group-title="少儿",河北少儿
+https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1729503135&k=61786ce35d04dd1f4592d69fdc57592b
+
 
 #EXTINF:-1 tvg-name="港臺電視31" tvg-id="" tvg-logo="https://epg.pw/media/" group-title="香港",[BD]港台電視 31
 https://stream1.freetv.fun/198f832402c4811ecc847da8e14aa8915727a2643e046d1ab9f3098f983dd5ce.m3u8
