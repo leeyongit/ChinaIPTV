@@ -26,13 +26,15 @@ http://lives.jnnews.tv/video/s10001-SDTV/index.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png",河北卫视
 http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=f1b16a3a3866dafecb94ec2bb4160e58
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.iill.top/logo/浙江卫视.png" group-title="卫视台",浙江卫视
-https://zhfivel02.cztv.com/channel01/720p.m3u8?auth_key=1728402448-8eac0679cc79c2e8e46c4b8361c6335a-0-9daf5e218e69e3a29765934d9144b1d4
+https://zhfivel02.cztv.com/channel01/720p.m3u8?auth_key=1729492954-e8ab5dbd073c75ed0586aee5ad4c6bda-0-5e7dbc4f4a70180d99f31d06dfee28e4
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.iill.top/logo/江苏卫视.png" group-title="卫视台",江苏卫视
 http://vvlive.eztv.vip/hwsstnew/hwsstnew.m3u8?auth_key=1710810832-0-0-70d15b6eab3c5342adefba848a4d9067
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.iill.top/logo/湖南卫视.png" group-title="卫视台",湖南卫视
 http://vvlive.eztv.vip/ctvjnew/ctvjnew.m3u8?auth_key=1710810969-0-0-ba6a3cd8195f05d21a6a7f110058d520
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.iill.top/logo/北京卫视.png" group-title="卫视台",北京卫视
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1728400076&sign=5f135d5c1a0052177189846e73143a40
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1729494823&sign=34334ceb0b9c11680f0a5ad85ff0a0a2
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.iill.top/logo/深圳卫视.png" group-title="卫视台",深圳卫视
+http://p.ytelc.com/169l/gd/shenzhen.php?id=shenzhen
 
 #EXTINF:-1 tvg-name="港臺電視31" tvg-id="" tvg-logo="https://epg.pw/media/" group-title="香港",[BD]港台電視 31
 https://stream1.freetv.fun/198f832402c4811ecc847da8e14aa8915727a2643e046d1ab9f3098f983dd5ce.m3u8
