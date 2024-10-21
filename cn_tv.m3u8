@@ -39,23 +39,16 @@ http://p.ytelc.com/169l/gd/shenzhen.php?id=shenzhen
 http://stream.snrtv.com/sxbc-star-tuHWZ3.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://epg.iill.top/logo/海南卫视.png" group-title="卫视台",海南卫视
 https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=1bc112521729501876
+#EXTINF:-1 tvg-name="環球電視臺" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318090803853591_56.png" group-title="卫视台",[BD]环球电视
+https://stream1.freetv.fun/6234a9bcbe41073ea5f86dfdea0d0241a0f06a064046d72c42128f714889299c.m3u8
 
-#EXTINF:-1 tvg-name="江苏少儿" tvg-logo="https://epg.pw/media/" group-title="少儿",江苏少儿
+#EXTINF:-1 tvg-name="江苏少儿" tvg-id="" tvg-logo="https://epg.pw/media/" group-title="少儿",江苏少儿
 https://1699055349.cloudvdn.com/a.m3u8?domain=litchinews-tv-hls.jstv.com&player=RbIAAMDkEPkdZwAY&secondToken=secondToken%3A8jh2DvVw_EOa4zxDjpGbVj6nqxM&sign=f152a983385eaef2dc50e01c7b8f9fc6&streamid=litchinews-tv%3Alitchinews-tv%2Fyoumankatong&t=67160cf3&v3=1
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="	https://live.fanmingming.com/tv/金鹰卡通.png" group-title="少儿",金鹰卡通
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="少儿",金鹰卡通
 http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9aHdfcGhvbmUmcz0wMGMxZWU5MGJmM2M2MzU5ZjQzODhjNTI5NmQ3YjM0MyZ1aWQ9JnV1aWQ9YTE1MThkZjExNDU5MzdhODM0YzJlMjhkZjBhN2M0YzMtNjcyN2UyNjQmdj0yJmFzPTAmZXM9MTcyOTUyMTQwMw,,/JYKTMPP360.m3u8
-#EXTINF:-1 tvg-name="河北少儿" tvg-logo="https://epg.pw/media/" group-title="少儿",河北少儿
+#EXTINF:-1 tvg-name="河北少儿" tvg-id="" tvg-logo="https://epg.pw/media/" group-title="少儿",河北少儿
 https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1729503135&k=61786ce35d04dd1f4592d69fdc57592b
 
-
-#EXTINF:-1 tvg-name="港臺電視31" tvg-id="" tvg-logo="https://epg.pw/media/" group-title="香港",[BD]港台電視 31
-https://stream1.freetv.fun/198f832402c4811ecc847da8e14aa8915727a2643e046d1ab9f3098f983dd5ce.m3u8
-
-#EXTINF:-1 tvg-name="港臺電視32" tvg-logo="https://epg.pw/media/" group-title="香港",[BD]港台電視 32
-https://stream1.freetv.fun/53f56e582faa5bc1073861206e2563b2437b3cd6c2f4bf8d44986624246d837f.m3u8
-
-#EXTINF:-1 tvg-name="環球電視臺" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318090803853591_56.png" group-title="香港",[BD]环球电视
-https://stream1.freetv.fun/6234a9bcbe41073ea5f86dfdea0d0241a0f06a064046d72c42128f714889299c.m3u8
 
 #EXTINF:-1 group-title="台湾" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/893ad6bbc78b8f994774751143496a31.jpg" tvg-id="DaAi 1",DaAi 1
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
